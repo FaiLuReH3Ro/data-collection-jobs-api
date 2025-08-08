@@ -1,4 +1,4 @@
-<h1>Data Collection Using Jobs API</h1>
+<h1>Data Collection - Jobs API</h1>
 
 <p>This is part of the <a href = 'https://github.com/FaiLuReH3Ro/IBM-DataAnalyst-Capstone'>IBM Data Analyst Capstone</a> project.</p>
 
