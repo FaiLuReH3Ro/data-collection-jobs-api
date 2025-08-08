@@ -27,3 +27,10 @@ Original Source: [Jobs_API](https://cf-courses-data.s3.us.cloud-object-storage.a
     <li>Determine the number of jobs open for various locations</li>
     <li>Export the data to an Excel spreadsheet</li>
 </ul>
+
+<h2>Tools Used</h2>
+
+* Jupyter notebook
+* Python
+* Pandas
+* Requests
