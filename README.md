@@ -1,12 +1,12 @@
 <h1>Data Collection - Jobs API</h1>
 
-<p>This is part of the <a href = 'https://github.com/FaiLuReH3Ro/IBM-DataAnalyst-Capstone'>IBM Data Analyst Capstone</a> project.</p>
+<p>This is part of the <a href = 'https://github.com/FaiLuReH3Ro/IBM-DataAnalyst-Capstone'>IBM Data Analyst Capstone - Python</a> project.</p>
 
 <h2>Dataset Used</h2>
 
 Dataset Source: https://www.kaggle.com/promptcloud/jobs-on-naukricom
 
-> Note: The dataset in this notebook is modified. The original dataset is a csv and is converted to json here.
+> Note: The dataset in this notebook is modified. The original dataset is a CSV and is converted to JSON here.
 
 <h2>Using the Jobs API</h2>
 
