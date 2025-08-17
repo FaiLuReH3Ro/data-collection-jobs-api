@@ -34,8 +34,3 @@ Original Source: [Jobs_API](https://cf-courses-data.s3.us.cloud-object-storage.a
 * Python
 * Pandas
 * Requests
-
-<img src = 'Screenshots/1.PNG'>
-<img src = 'Screenshots/2.PNG'>
-<img src = 'Screenshots/3.PNG'>
-<img src = 'Screenshots/4.PNG'>
