@@ -34,3 +34,9 @@ Original Source: [Jobs_API](https://cf-courses-data.s3.us.cloud-object-storage.a
 * Python
 * Pandas
 * Requests
+
+## Jupyter Notebook
+
+Click on the link below to view or access the notebook.
+
+[Data Collection - Jobs API](https://github.com/FaiLuReH3Ro/DataCollection-JobsAPI/blob/main/Collecting_Data_Using_APIs.ipynb)
