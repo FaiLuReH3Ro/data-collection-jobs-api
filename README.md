@@ -39,4 +39,4 @@ Original Source: [Jobs_API](https://cf-courses-data.s3.us.cloud-object-storage.a
 
 Click on the link below to view or access the notebook.
 
-[Data Collection - Jobs API](https://github.com/FaiLuReH3Ro/DataCollection-JobsAPI/blob/main/Collecting_Data_Using_APIs.ipynb)
+[Data Collection - Jobs API](https://github.com/FaiLuReH3Ro/data-collection-jobs-api/blob/main/Collecting_Data_Using_APIs.ipynb)
