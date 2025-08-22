@@ -2,6 +2,12 @@
 
 <p>This is part of the <a href = 'https://github.com/FaiLuReH3Ro/ibm-da-capstone-py'>IBM Data Analyst Capstone - Python</a> project and part of the <a href = 'https://github.com/FaiLuReH3Ro/ibm-da-capstone-py?tab=readme-ov-file#data-collection'>Data Collection</a> section.</p>
 
+## Jupyter Notebook
+
+Click on the link below to view or access the notebook.
+
+[Data Collection - Jobs API](https://github.com/FaiLuReH3Ro/data-collection-jobs-api/blob/main/Collecting_Data_Using_APIs.ipynb)
+
 <h2>Dataset Used</h2>
 
 Dataset Source: https://www.kaggle.com/promptcloud/jobs-on-naukricom
@@ -34,9 +40,3 @@ Original Source: [Jobs_API](https://cf-courses-data.s3.us.cloud-object-storage.a
 * Python
 * Pandas
 * Requests
-
-## Jupyter Notebook
-
-Click on the link below to view or access the notebook.
-
-[Data Collection - Jobs API](https://github.com/FaiLuReH3Ro/data-collection-jobs-api/blob/main/Collecting_Data_Using_APIs.ipynb)
