@@ -4,13 +4,13 @@
 
 ## 📓 Jupyter Notebook
 
-Click on the link below to view or access the notebook.
+> Click on the link below to view or access the notebook.
 
 👉 [Data Collection - Jobs API](https://github.com/FaiLuReH3Ro/data-collection-jobs-api/blob/main/Collecting_Data_Using_APIs.ipynb)
 
 <h2>📈 Dataset Used</h2>
 
-📌 Dataset Source: https://www.kaggle.com/promptcloud/jobs-on-naukricom
+🔗 Dataset Source: https://www.kaggle.com/promptcloud/jobs-on-naukricom
 
 > Note: The dataset in this notebook is modified. The original dataset is a CSV and is converted to JSON here.
 
