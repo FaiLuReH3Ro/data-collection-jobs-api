@@ -4,6 +4,7 @@
 
 ## 📓 Jupyter Notebook
 
+> [!NOTE]
 > Click on the link below to view or access the notebook.
 
 👉 [Data Collection - Jobs API](https://github.com/FaiLuReH3Ro/data-collection-jobs-api/blob/main/Collecting_Data_Using_APIs.ipynb)
@@ -12,7 +13,8 @@
 
 🔗 Dataset Source: https://www.kaggle.com/promptcloud/jobs-on-naukricom
 
-> Note: The dataset in this notebook is modified. The original dataset is a CSV and is converted to JSON here.
+> [!NOTE]
+> The dataset in this notebook is modified. The original dataset is a CSV and is converted to JSON here.
 
 <h2>🌐 Using the Jobs API</h2>
 
@@ -24,7 +26,10 @@
     <li>Run all the cells in the Jobs API notebook</li>
 </ol>
 
-📥 Original Source: [Jobs_API](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DA0321EN-SkillsNetwork/labs/module%201/Accessing%20Data%20Using%20APIs/Jobs_API.ipynb) (Downloads a Jupyter notebook)
+📥 Original Source: [Jobs_API](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DA0321EN-SkillsNetwork/labs/module%201/Accessing%20Data%20Using%20APIs/Jobs_API.ipynb)
+
+> [!IMPORTANT]
+> Clicking on the above link will automatically download a Jupyter Notebook file.
 
 <h2>🚀 Objectives</h2>
 
